@@ -152,5 +152,97 @@
       "totalfee": 4600,
       "regdate": "2023-09-10"
     }
+  ],
+  "music_school": [
+    {
+      "Name": "Piano Lessons",
+      "Description": "Learn to play the piano with experienced instructors.",
+      "Instructor": "John Smith",
+      "Instrument": "Piano",
+      "DayOfWeek": "Monday",
+      "Price": 50,
+      "Status": "Open"
+    },
+    {
+      "Name": "Guitar Classes",
+      "Description": "Acoustic and electric guitar lessons for all levels.",
+      "Instructor": "Jane Doe",
+      "Instrument": "Guitar",
+      "DayOfWeek": "Tuesday",
+      "Price": 45,
+      "Status": "Active"
+    },
+    {
+      "Name": "Violin Workshop",
+      "Description": "Master the violin with our renowned violinist.",
+      "Instructor": "Alice Johnson",
+      "Instrument": "Violin",
+      "DayOfWeek": "Wednesday",
+      "Price": 55,
+      "Status": "Active"
+    },
+    {
+      "Name": "Drum Sessions",
+      "Description": "Get groovy with drumming lessons for all ages.",
+      "Instructor": "Bob Wilson",
+      "Instrument": "Drums",
+      "DayOfWeek": "Thursday",
+      "Price": 60,
+      "Status": "Active"
+    },
+    {
+      "Name": "Vocal Coaching",
+      "Description": "Improve your singing skills with vocal experts.",
+      "Instructor": "Eva Adams",
+      "Instrument": "Voice",
+      "DayOfWeek": "Friday",
+      "Price": 55,
+      "Status": "Active"
+    },
+    {
+      "Name": "Flute Masterclass",
+      "Description": "Explore the world of flutes with our flutist.",
+      "Instructor": "Michael Brown",
+      "Instrument": "Flute",
+      "DayOfWeek": "Saturday",
+      "Price": 50,
+      "Status": "Active"
+    },
+    {
+      "Name": "Bass Guitar Lessons",
+      "Description": "Learn bass guitar techniques from a pro bassist.",
+      "Instructor": "Sophia Davis",
+      "Instrument": "Bass Guitar",
+      "DayOfWeek": "Sunday",
+      "Price": 48,
+      "Status": "Close"
+    },
+    {
+      "Name": "Trumpet Workshop",
+      "Description": "Brass up your skills with our trumpet lessons.",
+      "Instructor": "William Evans",
+      "Instrument": "Trumpet",
+      "DayOfWeek": "Monday",
+      "Price": 52,
+      "Status": "Close"
+    },
+    {
+      "Name": "Saxophone Classes",
+      "Description": "Discover the saxophone world with our saxophonist.",
+      "Instructor": "Olivia Green",
+      "Instrument": "Saxophone",
+      "DayOfWeek": "Tuesday",
+      "Price": 55,
+      "Status": "Active"
+    },
+    {
+      "Name": "Harmonica Sessions",
+      "Description": "Learn to play the harmonica with expert guidance.",
+      "Instructor": "James Harris",
+      "Instrument": "Harmonica",
+      "DayOfWeek": "Wednesday",
+      "Price": 42,
+      "Status": "Active"
+    }
   ]
 }
