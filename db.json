@@ -466,6 +466,11 @@
     "email":"imran@gmail.com"
   }  
   ],
-  "login":[],
+  "login":[
+    {
+      "username" : "Ijona",
+      "password" : "Ijona",
+    }
+  ],
   "signup":[]
 }
